@@ -1,4 +1,4 @@
-# Hcking md5
+# Hacking md5
 
 Command
 * --c Create md5 from string
