@@ -1,1 +1,5 @@
-# md5-hacking
+h1 Hcking md5
+
+```
+python3 md5.py
+```
