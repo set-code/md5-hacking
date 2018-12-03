@@ -28,7 +28,6 @@ if actions == '--c':
 if actions == '--h':
     hacking_md5 = 1
 
-
 if hacking_md5 == 1:
     with open("Password_list") as file:
         Pass = [row.strip() for row in file]
@@ -78,8 +77,4 @@ if create_md5 == 1:
     sys.stdout.write(RESET)
     print("\n ========================================================\n")
 
-
-
-
-#os.system('clear')
 os.execl(sys.executable, sys.executable, *sys.argv)
