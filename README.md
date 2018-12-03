@@ -1,6 +1,6 @@
 # Hcking md5
 
-> Command
+Command
 --c Create md5 from string
 --h Brute force md5
 ```
